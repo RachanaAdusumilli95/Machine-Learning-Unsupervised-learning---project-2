@@ -1,4 +1,4 @@
-setwd("D:/Rachana/ISB/Term 2/MLUL/IA 2")
+setwd("D:/Rachana/Term 2/MLUL")
 
 wine <- read.csv('wine-data.csv')
 
